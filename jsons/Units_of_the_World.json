@@ -1,0 +1,17 @@
+[
+{
+		"name": "Black Legion",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Hungary",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"hurryCostModifier": -25,
+		"attackSound": "shot"
+		"uniques": ["Can move immediately once bought","Cheaper to buy"]
+}
+]

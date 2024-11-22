@@ -1,0 +1,22 @@
+  [
+  {
+        "name": "Orszaggyules",
+        "uniqueTo": "Hungary",
+        "replaces": "Palace",
+        "isNationalWonder": false,
+        "cost": 100,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "cityStrength": 2,
+        "requiredTech": "Mathematics",
+        "uniques": [
+            "Indicates the capital city",
+            "[+25]% Great Person generation [in this city]",
+            "[+10]% Production when constructing [All] buildings [in this city]",
+            "Limited to [2] per Civilization",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ]
+    },
+    ]
