@@ -37,4 +37,64 @@
 			"Koszeg","Obuda","Kolozsvar","Diosgyor","Tatabanya","Kassa","Eperjes","Kisszeben","Eger","Mohacs","Tata",
 			"Szolnok","Sarvar","Zagrab","Temesvar","Nyiregyhaza","Kecskemet","Sopron"]
 	},
+	{
+        "name": "Norway",
+        "leaderName": "Harald Hardrada",
+        "adjective": ["Norwegian"],
+        "startBias": ["Coast"],
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "Now comes a storm you cannot escape. You can only hope for a quick death! To victory! To Odin's halls!",
+        "attacked": "This will make a great saga! The skalds will sing of my valor! Let us see if the same will go to you!",
+        "defeated": "Joke's on you. I will join the einherjar in Valhalla and feast, while you toil away here.",
+        "introduction": "Harald Sigurdsson stands before you: a Viking unlike any the seas and lands have ever known. Hah, are you afraid?",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "I have sent you traders with gifts of rune stones. They are powerful. I mean, the stones, not the traders.",
+        "outerColor": [8,30,87],
+        "innerColor": [238,180,0],
+        "uniqueName": "Nordic Bounty",
+        "uniques": [
+            "[+1 Faith] from every [Water resource]",
+            "[+2 Food, +1 Production] from every [Snow]"
+        ],
+        "cities": [
+            "Oslo","Bergen","Trondheim","Stavanger","Tromso","Sarpsborg","Kristiansand","Fredrikstad","Tunsberg","Sandefjord",
+            "Sandnes","Skien","Drammen","Bodo","Alesund","Larvik","Arendal","Gjovik","Narvik","Porsgrunn",
+            "Halden","Hammerfest","Longyearbyen","Haugesund","Kongsberg","Horten"
+        ],
+        "spyNames": [
+            "Johann","Marlene","Wilhelm","Eva","Heinz","Horst","Carl","Viper","Albrecht","Anton"
+        ]
+    },
+	{
+        "name": "Ireland",
+        "leaderName": "Michael Collins",
+        "adjective": ["Irish"],
+        "startBias": ["Avoid [Coast]"],
+        "startIntroPart1": "Few can boast your patriotism and commitment to the cause of a Free Ireland, Commander Collins. Though you came from the humblest of beginnings, you truly embodied the pride of Irishness. It was not long before you joined the struggle for Home Rule, and you began to build a reputation for yourself – one of dedication, devotion, and pride for Ireland. After the Easter Rising turned bloody, you managed to turn a beaten movement into a potent physical force, one that would successfully found an Irish nation, fight a war for liberation, and win independence. Some did not share your view, however, and soon this incomplete nation descended once more into war. And though you paid the ultimate cost in the subsequent civil war, you gave your life for a free state that was established soon after.",
+        "startIntroPart2": "Michael Collins, Ireland looks up to you again for guidance in a new time of hardship. Will you serve once more for your nation and your people? Will you overcome those that seek to shackle you? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "I hope you have no hard feelings for me. This is a cruel world, after all...",
+        "attacked": "So once again it befalls onto me to fight for my people.",
+        "defeated": "I signed my own death warrant long ago. I thought at the time how odd, how ridiculous, a bullet might just as well have done the job 5 years ago...",
+        "introduction": "Welcome! I am Michael Collins, Chairman Of Provisional Government in Ireland. We could get along quite well if you're a friend of Ireland.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "This moment of peace must not be wasted between us, so let us make the most of it.",
+        "outerColor": [238,231,221],
+        "innerColor": [65,143,35],
+        "uniqueName": "Gaelic Revival",
+        "uniques": [
+            "ERROR"
+        ],
+        "cities": [
+            "Dublin","Cork","Galway","Wexford","Kilkenny","Tralee","Limerick","Castlebar","Lifford","Clonmel",
+            "Ennis","Roscommon","Cavan","Waterford","Nenagh","Sligo","Monaghan","Naas","Navan","Dundalk",
+            "Carrick-on-Shannon","Wicklow","Tullamore","Mullingar","Portlaoighise","Swords","Bray","Carlow","Armagh","Ballinna",
+            "Letterkenny","Athlone","Celbridge"
+        ],
+        "spyNames": [
+            "Patrick","James","Thomas","Michael","William","Timothy","Dennis","Margaret","Bridget","Ann"
+        ]
+    },
 ]	
