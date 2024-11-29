@@ -1,0 +1,141 @@
+   [
+   {
+        "name": "Mystic Blade",
+        "uniques": [
+            "Comment [Access to special promotions]"
+        ]
+    },
+    {
+        "name": "Ambition",
+        "uniques": [
+            "[+50]% Strength <when attacking>",
+            "[-20]% Strength <when defending>",
+            "Only available <for units without [Ambition]>",
+            "Only available <for units without [Invulnerability]>",
+            "Only available <for units without [Restlessness]>",
+            "Only available <for units without [Sneak Attack]>",
+            "Only available <for units without [Recruitment]>",
+            "Only available <for units without [Heroism]>",
+            "This Promotion is free"
+        ],
+        "prerequisites": ["Mystic Blade"],
+        "unitTypes": ["Sword","Gunpowder"]
+    },
+    {
+        "name": "Invulnerability",
+        "uniques": [
+            "[+20] HP when healing",
+            "[+30]% Strength <when defending>",
+            "Only available <for units without [Ambition]>",
+            "Only available <for units without [Invulnerability]>",
+            "Only available <for units without [Restlessness]>",
+            "Only available <for units without [Sneak Attack]>",
+            "Only available <for units without [Recruitment]>",
+            "Only available <for units without [Heroism]>",
+            "This Promotion is free"
+        ],
+        "prerequisites": ["Mystic Blade"],
+        "unitTypes": ["Sword","Gunpowder"]
+    },
+    {
+        "name": "Restlessness",
+        "uniques": [
+            "[1] additional attacks per turn",
+            "[+1] Movement",
+            "Only available <for units without [Ambition]>",
+            "Only available <for units without [Invulnerability]>",
+            "Only available <for units without [Restlessness]>",
+            "Only available <for units without [Sneak Attack]>",
+            "Only available <for units without [Recruitment]>",
+            "Only available <for units without [Heroism]>",
+            "This Promotion is free"
+        ],
+        "prerequisites": ["Mystic Blade"],
+        "unitTypes": ["Sword","Gunpowder"]
+    },
+    {
+        "name": "Sneak Attack",
+        "uniques": [
+            "[+50]% to Flank Attack bonuses",
+            "Only available <for units without [Ambition]>",
+            "Only available <for units without [Invulnerability]>",
+            "Only available <for units without [Restlessness]>",
+            "Only available <for units without [Sneak Attack]>",
+            "Only available <for units without [Recruitment]>",
+            "Only available <for units without [Heroism]>",
+            "This Promotion is free"
+        ],
+        "prerequisites": ["Mystic Blade"],
+        "unitTypes": ["Sword","Gunpowder"]
+    },
+    {
+        "name": "Recruitment",
+        "uniques": [
+            "[This Unit] heals [50] HP <upon defeating a [Major] unit>",
+            "[This Unit] heals [50] HP <upon defeating a [City-State] unit>",
+            "Only available <for units without [Ambition]>",
+            "Only available <for units without [Invulnerability]>",
+            "Only available <for units without [Restlessness]>",
+            "Only available <for units without [Sneak Attack]>",
+            "Only available <for units without [Recruitment]>",
+            "Only available <for units without [Heroism]>",
+            "This Promotion is free"
+        ],
+        "prerequisites": ["Mystic Blade"],
+        "unitTypes": ["Sword","Gunpowder"]
+    },
+    {
+        "name": "Heroism",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+            "Only available <for units without [Ambition]>",
+            "Only available <for units without [Invulnerability]>",
+            "Only available <for units without [Restlessness]>",
+            "Only available <for units without [Sneak Attack]>",
+            "Only available <for units without [Recruitment]>",
+            "Only available <for units without [Heroism]>",
+            "This Promotion is free"
+        ],
+        "prerequisites": ["Mystic Blade"],
+        "unitTypes": ["Sword","Gunpowder"]
+    },
+    {
+        "name": "[Norwegian Ski Infantry] ability",
+        "uniques": [
+            "[+25]% Strength <when fighting in [Snow] tiles>",
+            "[+25]% Strength <when fighting in [Tundra] tiles>",
+            "[+25]% Strength <when fighting in [Hill] tiles>",
+            "Double movement in [Snow]",
+            "Double movement in [Tundra]",
+            "Double movement in [Hill]"
+        ]
+    },
+    {
+        "name": "Buffalo Horns I",
+        "uniques": [
+            "[+1] Movement",
+            "[+25]% to Flank Attack bonuses",
+            "[+10]% Strength <when defending> <vs [Ranged] units>"
+        ]
+    },
+    {
+        "name": "Buffalo Chest II",
+        "uniques": [
+            "[+10]% Strength <when fighting in [Open terrain] tiles>",
+            "[+25]% to Flank Attack bonuses",
+            "[+10]% Strength <when defending> <vs [Ranged] units>"
+        ],
+        "prerequisites": ["Buffalo Horns I"],
+        "unitTypes": ["Sword","Gunpowder"]
+    },
+    {
+        "name": "Buffalo Loins III",
+        "uniques": [
+            "[+10]% Strength",
+            "[+25]% to Flank Attack bonuses",
+            "[+10]% Strength <when defending> <vs [Ranged] units>"
+        ],
+        "prerequisites": ["Buffalo Chest II"],
+        "unitTypes": ["Sword","Gunpowder"]
+    }
+    ]
