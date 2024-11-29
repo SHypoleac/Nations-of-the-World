@@ -1,5 +1,6 @@
-[	{
-    "name": "Argentina",
+[	
+    {
+    "name": "Argentina", 
     "leaderName": "Eva Peron",
     "adjective": ["Argentine"],
     "startBias": ["Avoid [Coast]"],
@@ -8,8 +9,8 @@
     "startIntroPart2": "Evita, your people still remember your deeds to the people in the darkest times, because you defended the rights of Descamisados and Women in your great nation. Now it falls to you to build a nation of hope and justice for everyone. Will you answer the call? Can you build a civilization that will stand the test of time?",
     "declaringWar": "Prepare for war!",
     "attacked": "You shall regret this!",
-    "defeated": "The victory is yours.",
-    "introduction": "Welcome, mighty leader.",
+    "defeated": "Don't cry for me Argentina! The truth is I never left you all through my wild days, my mad existence, I kept my promise don't keep your distance.",
+    "introduction": "This place is the reason for my life, Argentina! Welcome, I'm Eva Perón.",
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
     "tradeRequest": "Better hurry, I may change my mind.",
@@ -18,7 +19,7 @@
     "uniqueName": "Pride of the People",
     "uniques": [
         "[-50]% construction time for [Pasture] improvements",
-        "[-20]% construction time for [Farm] improvements"
+        "[-50]% construction time for [Farm] improvements"
     ],
     "cities": [
         "Buenos Aires","La Plata","Cordoba","Jujuy","Catamarca","La Rioja","Formosa","Parana","Posadas","Neuquen",
@@ -39,7 +40,7 @@
     "startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
     "declaringWar": "I fear there is no other choice but to remove you from this world!",
     "attacked": "I think you will come to regret this decision...most unwise.",
-    "defeated": "We may be defeated, but our legacy will live on in the written word!",
+    "defeated": "You have bested my forces...perhaps it was I that underestimated you.",
     "introduction": "I welcome you to the great kingdom of Assyria...have you come to view my library?",
     "neutralHello": "Hello, go ahead",
     "hateHello": "What do you want again?!",
@@ -49,9 +50,7 @@
     "uniqueName": "Siege Warfare",
     "uniques": [
         "[+1] Movement <for [Siege] units>",
-        "Free [Great Writer] appears <upon discovering [Philosophy] technology>",
-        "Instantly provides [1] [Great Work of Writing] <upon constructing [Royal Library] [in capital]>"
-        ERROR
+        "<upon constructing [Royal Library] [in capital]>"
     ],
     "cities": [
         "Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
@@ -73,7 +72,7 @@
     "declaringWar": "The Commonwealth of Australia formally declare war on you!",
     "attacked": "Australia will not sit idly, we shall defend our homeland 'till our dying breath!",
     "defeated": "I die happily, knowing that Australia was once a proud and mighty nation far exceeding the ideals of your unequivocally barbaric ways.",
-    "introduction": "The Commonwealth Of Australia greets you, fellow nation. I am Prime Minister Henry Parkes and I look forward to cooperate with you!",
+    "introduction": "The great people of Australia welcome you, as do I. My name is Sir Henry Parkes, and it is a pleasure to meet you.",
     "neutralHello": "Welcome, dear friend.",
     "hateHello": "Step forward, vile barbarian.",
     "tradeRequest": "Will you accept this deal?",
@@ -81,7 +80,7 @@
     "innerColor": [225, 148, 26],
     "uniqueName": "Dreamtime",
     "uniques": [
-        ERROR"[+1 Faith] from every [{non-[Flood plains]} {Desert}]",
+        "[+1 Faith] from every [{non-[Flood plains]} {Desert}]",
         "[+5 Faith] from every [Natural Wonder]",
         "Gain [10] [Faith] <upon discovering a Natural Wonder>"
     ],
@@ -95,7 +94,7 @@
     ]
 },
 {
-    "name": "Belgium",ERROR GIT
+    "name": "Belgium",
     "leaderName": "Leopold II",
     "adjective": ["Belgian"],
     "startBias": ["Avoid [Coast]"],
@@ -103,7 +102,7 @@
     "startIntroPart2": "King Leopold, once more Belgium must make haste if it is to maintain its stride with the march of progress. Can you take up the charge and bring wealth and ingenuity to your kingdom? Can you leave your people with great public works and develop Belgium into a modern nation? Can you build a civilization that can stand the test of time?",
     "declaringWar": "Prepare for war!",
     "attacked": "You shall regret this!",
-    "defeated": "The victory is yours.",
+    "defeated": "Will you treat my savages kindly, as I have done?",
     "introduction": "Greetings to you. I am Leopold II Of Belgium, founder AND absolute ruler of the Congo Free State.",
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
@@ -197,8 +196,8 @@
     
     "declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
     "attacked": "It can not be true, but I feel it is. We will do our best to fend you off!",
-    "defeated": "The bitter taste of defeat. You will taste it as well. Someday...",
-    "introduction": "You stand in front of Matthias Corvinus, the great king of Hungary. Are you a friend or a foe?",
+    "defeated": "I envisioned a different future. Have I not interpreted the stars correctly?",
+    "introduction": "As you approach, I wonder what the future has in store for both our nations. I must consult the stars.",
     
     "neutralHello": "Greetings.",
     "neutralLetsHearIt": ["Yes.","Speak."],
@@ -214,20 +213,18 @@
 
     "outerColor": [61, 105, 55],
     "innerColor": [205, 131, 32],
-    "uniqueName": "Verszerzodes",ERROR
+    "uniqueName": "Verszerzodes",
     "uniques": [
         "[+1 Production, +1 Culture] from every [Walls]",
         "[+1 Production, +1 Culture] from every [Castle]",
         "[+1 Production, +1 Culture] from every [Arsenal]",
         "[+1 Production, +1 Culture] from every [Military Base]"],
-        "uniqueName": "Patronage of the Raven",
-		"uniques": ["[+15]% [Science] [in all cities] <during a Golden Age>",
-        "[+20]% Production when constructing [Culture] buildings [in all cities]",
-        "[+50]% Production when constructing [Walls] buildings [in all cities]",
-        "[+50]% Production when constructing [Var] buildings [in all cities]"],
     "cities": ["Buda","Pest","Esztergom","Debrecen","Pecs","Eger","Miskolc","Gyor","Szekesfehervar","Szeged",
         "Koszeg","Obuda","Kolozsvar","Diosgyor","Tatabanya","Kassa","Eperjes","Kisszeben","Eger","Mohacs","Tata",
-        "Szolnok","Sarvar","Zagrab","Temesvar","Nyiregyhaza","Kecskemet","Sopron"]
+        "Szolnok","Sarvar","Zagrab","Temesvar","Nyiregyhaza","Kecskemet","Sopron"],
+    "spyNames": [
+            "Francisco","Gaspar","Alvaro","Bento","Roberto","Afonso","Galeote","Diogo","Eliana","Oriana"
+        ]
 },
 {
     "name": "Indonesia",
@@ -247,7 +244,7 @@
     "outerColor": [101,211,220],
     "innerColor": [167,52,31],
     "uniqueName": "Spice Islanders",
-    "uniqueText": "Gain access to buildings that provides 2 copies of unique Luxury Resources",ERROR(Put Spices in their building)
+    "uniqueText": "After discovering Optics gains access to buildings that provides 2 copies of unique Luxury Resources",
     "cities": [
         "Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
         "Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
@@ -275,9 +272,18 @@
     "innerColor": [65,143,35],
     "uniqueName": "August Destiny",
     "uniques": [
-        "+2 culture from city with garnizon"
-        ERROR
-    ],
+        "[+2 Culture] [in all cities with a garrison]",
+        "Comment [[+1 Happiness] from every non-Palace National Wonder]",
+        "[+1 Happiness] from every [National Epic] <hidden from users>",
+        "[+1 Happiness] from every [National College] <hidden from users>",
+        "[+1 Happiness] from every [Circus Maximus] <hidden from users>",
+        "[+1 Happiness] from every [Heroic Epic] <hidden from users>",
+        "[+1 Happiness] from every [National Treasury] <hidden from users>",
+        "[+1 Happiness] from every [Grand Temple] <hidden from users>",
+        "[+1 Happiness] from every [Ironworks] <hidden from users>",
+        "[+1 Happiness] from every [Oxford University] <hidden from users>",
+        "[+1 Happiness] from every [Hermitage] <hidden from users>",
+        "[+1 Happiness] from every [National Intelligence Agency] <hidden from users>"],
     "cities": [
         "Dublin","Cork","Galway","Wexford","Kilkenny","Tralee","Limerick","Castlebar","Lifford","Clonmel",
         "Ennis","Roscommon","Cavan","Waterford","Nenagh","Sligo","Monaghan","Naas","Navan","Dundalk",
@@ -305,7 +311,7 @@
     "outerColor": [182, 101, 191],
     "innerColor": [0, 0, 178],
     "uniqueName": "Grand Baray of Angkor",
-    "uniques": ["Gain a free [Baray] [in capital]"],ERROR(Maybe some more?)
+    "uniques": ["Gain a free [Baray] building in your first [2] cities for free"],
     "cities": [
         "Yasodharapura","Hariharalaya","Mahendraparvata","Indrapura","Vimayapura","Rajavihara","Isvarapura","Lingapura","Nagara Jayasri","Vyadhapura",
         "Dviradapura","Amarendrapura","Lavodayapura","Shrestapura","Aninditapura","Isanapura","Banteay Kdei","Chaturmukha","Phetchaburi","Preah Vihear",
@@ -317,12 +323,12 @@
 },
 {
     "name": "Kongo",
-    "leaderName": "Mvemba a Nzinga",
+    "leaderName": "Nzinga Mbande",
     "adjective": ["Kongo"],
     "startBias": ["Avoid [Coast]","Forest"],
     "preferredVictoryType": "Cultural",
-    "startIntroPart1": "Hail to you, brave Mvemba a Nzinga, Queen of the Ndongo and Matamba, whose beauty is matched only by your cunning. Your Kingdom is part of the great Kingdom of Kongo, situated at the mouth of the mighty Congo River in west-central Africa. You defied tradition by claiming two thrones and are remembered for standing bravely against the onslaught of European imperialism. When the Portuguese invaded your lands, you escaped death and shrewdly manipulated the Dutch into sending you aid. Together you turned back the army of the Portuguese at the Battle of Kombi. Yet, ever faced with threats both inside and out, the never-ending war took its tool, and in the end not even your bravery could stop the march of foreign crowns.",
-    "startIntroPart2": "Mighty Queen of Kongo, your prople has been chained and sold into slavery. Yet, your old alliances stand firm and await your call. It is time to return, to instill your strenght and spirit and lead your people to battle once more. Can you restore your war-torn land? Can you build a civilization that will stand the test of time?",
+    "startIntroPart1": "Hail to you, brave Nzinga Mbande, Queen of the Ndongo and Matamba, whose beauty is matched only by your cunning. Your Kingdom is part of the great Kingdom of Kongo, situated at the mouth of the mighty Congo River in west-central Africa. You defied tradition by claiming two thrones and are remembered for standing bravely against the onslaught of European imperialism. When the Portuguese invaded your lands, you escaped death and shrewdly manipulated the Dutch into sending you aid. Together you turned back the army of the Portuguese at the Battle of Kombi. Yet, ever faced with threats both inside and out, the never-ending war took its tool, and in the end not even your bravery could stop the march of foreign crowns.",
+    "startIntroPart2": "Mighty Queen of Kongo, your people has been chained and sold into slavery. Yet, your old alliances stand firm and await your call. It is time to return, to instill your strenght and spirit and lead your people to battle once more. Can you restore your war-torn land? Can you build a civilization that will stand the test of time?",
     "declaringWar": "Me and my warriors come to set your lands and your flags on fire!",
     "attacked": "Go ahead, send your soldiers! We will melt into the trees and strike at you from the stones.",
     "defeated": "Your swords cleave only flesh. Your chains bind only hands. Our soul remains ours.",
@@ -345,7 +351,7 @@
     ]
 },
 {
-    "name": "Manchuria", ERROR GIT
+    "name": "Manchuria", 
     "leaderName": "Nurhaci",
     "adjective": ["Manchurian"],
     "startBias": ["Avoid [Coast]"],
@@ -354,8 +360,8 @@
     "startIntroPart2": "Oh, bold and noble Khan and Chieftain, the empire your actions shaped has fallen, and the Manchu have been reduced to a mere minority group in another nation’s empire. But your people call your name unto the heavens, desperate for your strong and wise leadership to lead them to glory once more! Will you ride with your Bannermen to the field of battle once more? Will you build a civilization to stand the test of time?",
     "declaringWar": "Prepare for war!",
     "attacked": "You shall regret this!",
-    "defeated": "The victory is yours.",
-    "introduction": "Welcome, mighty leader.",
+    "defeated": "You have bested me, warrior. I have no choice but to submit. Which banner shall I be allocated to? What do you mean, 'we don't sort our troops by banner'?!", 
+    "introduction": "You stand before Nurhaci, Brilliant Khan Who Benefits All Nations. Will you be a worthwhile ally or mere fodder for my armies?",
     "neutralHello": "Greetings.",
     "hateHello": "What do you want?",
     "tradeRequest": "Better hurry, I may change my mind.",
@@ -363,13 +369,12 @@
     "innerColor": [0,55,106],
     "uniqueName": "Eight Banners",
     "uniques": [
-        ERROR
+        "[+100]% Production when constructing [Stable] buildings [in all cities])",
+        "[+1 Gold] from every [Stable])",
         "[-100]% maintenance costs <for [Mounted] units>",
         "[-100]% maintenance costs <for [Armor] units>",
         "[Mounted] units gain the [Volley] promotion",
         "[Armor] units gain the [Volley] promotion"
-        //"[+100]% Production when constructing [Stable] buildings [in all cities]",
-        //"[+1 Gold] from every [Stable]"
     ],
     "cities": [
         "Mukden","Hetu Ala","Yenden","Xingjing","Fushun","Qinghe","Sarhu","Girin Ula","Qiaonan","Tieling",
@@ -386,13 +391,13 @@
         "adjective": ["Norwegian"],
         "startBias": ["Coast", "Tundra"],
         "startIntroPart1": "All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore. May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.",
-        "startIntroPart2": " ",ERROR(Lets do it later)
+        "startIntroPart2": "(Lets do it later)",
         "declaringWar": "Now comes a storm you cannot escape. You can only hope for a quick death! To victory! To Odin's halls!",
         "attacked": "This will make a great saga! The skalds will sing of my valor! Let us see if the same will go to you!",
         "defeated": "Joke's on you. I will join the einherjar in Valhalla and feast, while you toil away here.",
         "introduction": "Harald Sigurdsson stands before you: a Viking unlike any the seas and lands have ever known. Hah, are you afraid?",
         "neutralHello": "Greetings.",
-        "hateHello": "What do you want?",
+        "hateHello": "Your seas are unprotected, friend. All too easy to raid.",
         "tradeRequest": "I have sent you traders with gifts of rune stones. They are powerful. I mean, the stones, not the traders.",
         "outerColor": [8,30,87],
         "innerColor": [238,180,0],
@@ -411,7 +416,7 @@
         ]
     },
     {
-        "name": "Phoenicia",ERROR GIT
+        "name": "Phoenicia",
         "leaderName": "Hiram",
         "adjective": ["Phoenician"],
         "startBias": ["Coast"],
@@ -419,8 +424,8 @@
         "startIntroPart2": "King Hiram, the dawn of a new age approaches. Can your guidance return Phoenicia to prosperity? Will you share to the world the wealth and wisdom of Phoenicia? Will you build a civilization that will stand the test of time?",
         "declaringWar": "Prepare for war!",
         "attacked": "You shall regret this!",
-        "defeated": "The victory is yours.",
-        "introduction": "Welcome, mighty leader.",
+        "defeated": "Take the riches of my land if you will! You still shall never be able to recreate the splendour of Phoenicia.",
+        "introduction": "I am Hiram of Tyre. I pray relations between our empires will be cordial and profitable.", 
         "neutralHello": "Greetings.",
         "hateHello": "What do you want?",
         "tradeRequest": "Better hurry, I may change my mind.",
@@ -503,7 +508,7 @@
         ]
     },
     {
-        "name": "Scotland",ERROR GIT
+        "name": "Scotland",
         "leaderName": "Robert the Bruce",
         "adjective": ["Scottish"],
         "startBias": ["Avoid [Coast]","Hill"],
@@ -520,7 +525,7 @@
         "innerColor": [201,214,217],
         "uniqueName": "Last of the Free",
         "uniques": [
-            "[+1 Culture] Culture for every [hill] tile"
+            "[+1 Culture] Culture for every [hill] tile",
             "[+33]% Great Person generation [in capital]"
         ],
         "cities": [
@@ -534,7 +539,7 @@
         ]
     },
     {
-        "name": "Sumeria", ERROR GIT
+        "name": "Sumeria",
         "leaderName": "Gilgamesh",
         "adjective": ["Sumer"],
         "startBias": ["Avoid [Coast]"],
@@ -624,6 +629,6 @@
         "spyNames": [
             "Gumede","Jama","Mageba","Malanda","Mnguni","Ndaba","Phunga","Senzangakhona","Balungile","Samkelisiwe"
         ]
-    },
+    }
 
 ]	
