@@ -1,5 +1,26 @@
    [
-   {
+    {
+        "name": "Altitude Training",
+        "uniques": [
+            "Double movement in [Snow]",
+            "Double movement in [Tundra]",
+            "Double movement in [Hill]",
+            "[+10]% Strength <when fighting in [Hill] tiles>"
+        ]
+    },
+    {
+        "name": "Feared Elephant",
+        "uniques": [
+            "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
+        ]
+    },
+    {
+        "name": "Heavy Charge",
+        "uniques": [
+            "[+50]% Strength <when attacking>"
+        ]
+    },
+    {
         "name": "Mystic Blade",
         "uniques": [
             "Comment [Access to special promotions]"
