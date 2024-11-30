@@ -50,7 +50,8 @@
     "uniqueName": "Siege Warfare",
     "uniques": [
         "[+1] Movement <for [Siege] units>",
-        "<upon constructing [Royal Library] [in capital]>"
+        "Upon capturing a city, receive [3] times its [Science] production as [Science] immediately",
+        "Gain [50] [Science] <upon conquering a city>"
     ],
     "cities": [
         "Assur","Nineveh","Nimrud","Kar-Tukulti-Ninurta","Dur-Sharrukin","Halab","Carchemish","Kanesh","Harran","Imgur-Enlil",
@@ -80,7 +81,7 @@
     "innerColor": [225, 148, 26],
     "uniqueName": "Dreamtime",
     "uniques": [
-        "[+1 Faith] from every [{non-[Flood plains]} {Desert}]",
+        "[+1 Faith] from [Desert] tiles without [Flood plains] [in all cities]",
         "[+5 Faith] from every [Natural Wonder]",
         "Gain [10] [Faith] <upon discovering a Natural Wonder>"
     ],
@@ -211,8 +212,9 @@
     "afterPeace": "Let's celebrate this glorious day, when our nations decided to sign a peace treaty!",
     "tradeRequest": "I've got an offer. Are you interested?",
 
-    "outerColor": [61, 105, 55],
-    "innerColor": [205, 131, 32],
+    "outerColor": [51, 89, 46],
+    "innerColor": [212, 149, 65],
+    
     "uniqueName": "Verszerzodes",
     "uniques": [
         "[+1 Production, +1 Culture] from every [Walls]",
@@ -311,7 +313,8 @@
     "outerColor": [182, 101, 191],
     "innerColor": [0, 0, 178],
     "uniqueName": "Grand Baray of Angkor",
-    "uniques": ["Gain a free [Baray] building in your first [2] cities for free"],
+    "uniques": ["Gain a free [Baray] [in capital]",
+                "[+2 Science] per [3] population [in capital] <after discovering [Drama and Poetry]>"],
     "cities": [
         "Yasodharapura","Hariharalaya","Mahendraparvata","Indrapura","Vimayapura","Rajavihara","Isvarapura","Lingapura","Nagara Jayasri","Vyadhapura",
         "Dviradapura","Amarendrapura","Lavodayapura","Shrestapura","Aninditapura","Isanapura","Banteay Kdei","Chaturmukha","Phetchaburi","Preah Vihear",
@@ -369,12 +372,11 @@
     "innerColor": [0,55,106],
     "uniqueName": "Eight Banners",
     "uniques": [
-        "[+100]% Production when constructing [Stable] buildings [in all cities])",
-        "[+1 Gold] from every [Stable])",
+        "[+100]% Production when constructing [Stable] buildings [in all cities]",
+        "[+1 Gold] from every [Stable]",
         "[-100]% maintenance costs <for [Mounted] units>",
-        "[-100]% maintenance costs <for [Armor] units>",
         "[Mounted] units gain the [Volley] promotion",
-        "[Armor] units gain the [Volley] promotion"
+        "[Armored] units gain the [Volley] promotion"
     ],
     "cities": [
         "Mukden","Hetu Ala","Yenden","Xingjing","Fushun","Qinghe","Sarhu","Girin Ula","Qiaonan","Tieling",
@@ -525,7 +527,7 @@
         "innerColor": [201,214,217],
         "uniqueName": "Last of the Free",
         "uniques": [
-            "[+1 Culture] Culture for every [hill] tile",
+            "[+1 Culture] from [Hill] tiles without [Farm] [in all cities]",
             "[+33]% Great Person generation [in capital]"
         ],
         "cities": [

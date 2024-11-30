@@ -118,7 +118,7 @@
     "uniqueTo": "Indonesia",
     "cost": 120,
     "culture": 2,
-    "uniques": ["+[25]% great person generation in this city"],
+    "uniques": ["[+25]% Great Person generation [in this city]"],
     "hurryCostModifier": 25,
     "maintenance": 1,
     "requiredTech": "Theology"
