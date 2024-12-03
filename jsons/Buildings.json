@@ -231,13 +231,14 @@
     "name": "Feitoria",
     "uniqueTo": "Portugal",
     "replaces": "Harbor",
-    "cost": 100,
+    "cost": 120,
+    "maintenance": 2,
     "hurryCostModifier": 25,
-    "gold": 2,
     "uniques": [
       "Connects trade routes over water",
       "Must be next to [Coast]",
-      "[+1 Gold] from [Water resource] tiles [in this city]",
+      "[+1 Production] from [Water resource] tiles [in this city]",
+      "[+2 Gold] from [Water resource] tiles [in this city]",
       "New [Water] units start with [15] Experience [in this city]"
     ],
     "requiredTech": "Compass"
