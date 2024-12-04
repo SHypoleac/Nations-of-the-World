@@ -1,4 +1,5 @@
-  {
+[
+{
     "name": "Suryavarman II",
     "production": 5,
     "food": 8,
@@ -26,3 +27,4 @@
       "Autocracy": 7,
       "Order": 7
     }
+  ]
