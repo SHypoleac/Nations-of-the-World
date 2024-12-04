@@ -5,6 +5,7 @@
     "adjective": ["Argentine"],
     "startBias": ["Avoid [Coast]"],
     "preferredVictoryType": "Scientific",
+
     "startIntroPart1": "Salutations, Eva Perón, spiritual leader of the Argentinian nation and wife to Juan Perón. Yours is the second largest country in Latin America, and its name has derived from the rumors of the existence of silver mountains; what is certainly rich is history in both pre-columbian and republican eras. With the primitive Hispanic American reality fractured in La Plata Basin due to immigration, its inhabitants have come to be somewhat deal with all the dangers but also with all the advantages of that condition: because of their European roots, they deeply linked the nation with the enduring values of the Old World; and because of their condition of colonials, they link themselves to the rest of the continent, through the folklore of the interior and the old Castilian that unifies the people, feeling somehow the vocation of the Patria Grande San Martín and Bolívar once imagined.",
     "startIntroPart2": "Evita, your people still remember your deeds to the people in the darkest times, because you defended the rights of Descamisados and Women in your great nation. Now it falls to you to build a nation of hope and justice for everyone. Will you answer the call? Can you build a civilization that will stand the test of time?",
     "declaringWar": "Prepare for war!",
@@ -37,6 +38,7 @@
     "startBias": ["Avoid [Coast]","Avoid [Tundra]"],
     "preferredVictoryType": "Domination",
     "personality": "Ashurbanipal",
+
     "startIntroPart1": "The people bow to your esteemed will, o wise and illustrious King Ashurbanipal of Assyria. Across the world, you are known as both a scholar and a warrior, and yet the legends represent merely a glimmer of your true ambition. Although your enemies cowered at the thought of your ferocity in conquest, you were most proud of your intellectual pursuits. Your thirst for knowledge led to your establishment of the royal library at Nineveh, which came to represent one of the greatest collections of ancient texts and tablets found anywhere in the world - securing your legacy as one of Assyria's greatest kings.",
     "startIntroPart2": "Wise and fearsome king, the time has come for you to return the kingdom of Assyria to its greatest heights. Will you once again strive to acquire the knowledge and histories of all the world's peoples? Can you build a civilization that will stand the test of time?",
     "declaringWar": "I fear there is no other choice but to remove you from this world!",
@@ -68,6 +70,7 @@
     "adjective": ["Australian"],
     "startBias": ["Coast"],
     "preferredVictoryType": "Cultural",
+
     "startIntroPart1": "Greetings, most wise and prudent Sir Henry Parkes, father of the Australian Federation. Australia truly is a unique and ancient land, more so than any other, for its lands abound in nature's gifts and its shores have beckoned, welcomed, and harbored immigrants from afar for over 50,000 years. By the time you arrived in Sydney as an English immigrant in 1839, Australia was divided into thriving British colonies of undeniably vital significance. By 1889, as premier you had led the colony of New South Wales five times to achieve many great things that undoubtedly improved the lives of many. You will always be remembered, however, in the hearts of Australians, for being instrumental in the process of federating the Australian colonies into a single united nation, earning you the humble title of \"The father of the Australian Federation\". Thanks to your efforts, Australia today remains one of the most wealthy, prosperous, and modern countries in the developed world, and truly a sight to behold.",
     "startIntroPart2": "O Henry Parkes, your people call for you in joyful strains once more. Will you make the rest the world hear the thunder of Australia? Will you build a civilization that stands the test of time?",
     "declaringWar": "The Commonwealth of Australia formally declare war on you!",
@@ -99,6 +102,8 @@
     "leaderName": "Leopold II",
     "adjective": ["Belgian"],
     "startBias": ["Avoid [Coast]"],
+
+
     "startIntroPart1": "Fledgling Belgium looks to you, Leopold II, King of the Belgians. In your forty-four years of rule, you strove to bring Belgium to the forefront of European progress - to make her a model for industry and her wealth the envy of lesser nations. With the help of the explorer Henry Morton Stanley, you privately laid claim to the Congo, whose immense natural wealth would be put to the advancement of your kingdom. Though your reputation abroad would ultimately succumb to controversy, your public works would nonetheless put the Belgian people on the path to progress. ",
     "startIntroPart2": "King Leopold, once more Belgium must make haste if it is to maintain its stride with the march of progress. Can you take up the charge and bring wealth and ingenuity to your kingdom? Can you leave your people with great public works and develop Belgium into a modern nation? Can you build a civilization that can stand the test of time?",
     "declaringWar": "Prepare for war!",
@@ -131,6 +136,7 @@
     "startBias": ["Avoid [Coast]","Jungle"],
     "preferredVictoryType": "Cultural",
     "personality": "Pedro II",
+
     "startIntroPart1": "All Hail his most respected and magnanimous Emperor, Pedro II of Brazil. It was with great insight and unshakeable dignity that you ruled the Brazilian empire for over 50 years, ushering in a time of lasting peace and prosperity. Your reputation as a stern, but fair leader was never blemished by controversy, as your unwavering dedication to the people of Brazil provided hope and established the kingdom's position in South America. Your scholarly pursuits and staunch defense of freedom of speech led to the creation of several institutions of higher learning, strengthening Brazil's sense of national identity.",
     "startIntroPart2": "Revered Emperor Pedro, your people long for a return to the peaceful days when you walked among them, hearing their stories and reassuring them of a bright future. Will you once again lead your kingdom to prosperity? Can you build a civilization that stands the test of time?",
     "declaringWar": "Your reign will be better under MY domain.",
@@ -161,6 +167,7 @@
     "leaderName": "Wilfrid Laurier",
     "adjective": ["Canadian"],
     "startBias": ["Avoid [Coast]","Tundra"],
+
     "startIntroPart1": "Canada is free and freedom is its nationality, and it is your task, Sir Wilfrid Laurier, to ensure that this liberty is preserved. Born from French stock, your tenure as Prime Minister would cement the foundations of Canada as a bastion of freedom in the new world. Under your leadership, Canada would expand to the green plains of the West, and the wounds dealt by the rivalries and alliances of the Old World would begin to heal. An intelligent and eloquent politician, your words and deeds would keep Canada hale and whole through the First World War and beyond.",
     "startIntroPart2": "The world is once again plunged into darkness, and Canada herself struggles in the shadows. O' steadfast Prime Minister, will you be for Canada a pillar of fire, guiding the free world with your sunny ways? Will you build a civilization to stand the test of time?",
     "declaringWar": "Prepare for war!",
@@ -195,7 +202,6 @@
     
     "startIntroPart1": "Maganimous King Matthias Corvinus of Hungary, your shining legacy is everlasting. When you came to the Magyar throne, your nation was going through a tumultuous time, threatened as it was from all sides; seeing this with perfect clarity, you established a permanent professional army, and thus the fearsome mercenary Black Army was born: unusual in its size and comparison, it famously incorporated the use of muskets. But perhaps the pinnacle of your reign is the fact that you made Hungary the first country outside Italy to adopt the principles of the Renaissance: learned men from all countries, not just Italy itself, travelled to Hungary to talk about arts, and your legendary library was rivaled only by that of Venice.",
     "startIntroPart2": "King Matthias the Just, God has called upon you to usher a new epoch of absolute greatness by calling upon your loyal people and lead them to glory? Can you rebuild your legendary library and at the same time let the Black Army serve as both a sword against your enemies and a shield protecting your nation? Can you build a civilization that will stand the test of time?",
-    
     "declaringWar": "I can't tolerate you anymore, hopefully you are at least a worthy opponent!",
     "attacked": "It can not be true, but I feel it is. We will do our best to fend you off!",
     "defeated": "I envisioned a different future. Have I not interpreted the stars correctly?",
@@ -236,6 +242,7 @@
     "startBias": ["Coast"],
     "preferredVictoryType": "Cultural",
     "personality": "Gajah Mada",
+
     "startIntroPart1": "Honour be with you, oh great hero Gajah Mada, prime minister of Majapahit and uniter of the Indonesian archipelago. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Serving your queen and empire with loyalty, you not only strive to fulfill your oath and conquered any who stood in your path, but you succeeded in capturing what was then the entirety of the known archipelago, the first to unite what is today modern Indonesia.",
     "startIntroPart2": "Mighty warrior Gajah Mada, your people yearn for a strong leader who can return them to prosperity! Will you set out to conquer the neighboring kingdoms, further expanding your glory of your empire? Will you build a civilization that can stand the test of time?",
     "declaringWar": "Don't mean to stand in your way, but I have to protect them!",
@@ -263,6 +270,8 @@
     "leaderName": "Michael Collins",
     "adjective": ["Irish"],
     "startBias": ["Avoid [Coast]"],
+
+
     "startIntroPart1": "Few can boast your patriotism and commitment to the cause of a Free Ireland, Commander Collins. Though you came from the humblest of beginnings, you truly embodied the pride of Irishness. It was not long before you joined the struggle for Home Rule, and you began to build a reputation for yourself – one of dedication, devotion, and pride for Ireland. After the Easter Rising turned bloody, you managed to turn a beaten movement into a potent physical force, one that would successfully found an Irish nation, fight a war for liberation, and win independence. Some did not share your view, however, and soon this incomplete nation descended once more into war. And though you paid the ultimate cost in the subsequent civil war, you gave your life for a free state that was established soon after.",
     "startIntroPart2": "Michael Collins, Ireland looks up to you again for guidance in a new time of hardship. Will you serve once more for your nation and your people? Will you overcome those that seek to shackle you? Can you build a civilization that will stand the test of time?",
     "declaringWar": "I hope you have no hard feelings for me. This is a cruel world, after all...",
@@ -303,6 +312,9 @@
     "leaderName": "Suryavarman II",
     "adjective": ["Khmer"],
     "startBias": ["Avoid [Coast]"],
+    "preferredVictoryType": "Scientific",
+    "personality": "Suryavarman II",
+
     "startIntroPart1": "Great Suryavarman, Emperor of the Khmer, the one who has entered the heavenly world of Vishnu, we kneel blinded by your glory! You reunited a divided empire and made it stronger than ever before, expanding its borders to the west and north and reaching the present-day peninsular Malaysia. Merciless to enemies, kind to friends, you established good relations with China, creating new important trade routes. You innovated the arts and architecture of the empire, and even gave the order to build the legendary Angkor Wat, the largest temple in the known world! In the end, your empire collapsed below its own greatness long before the Europeans managed to create their \"civilizations\", and yet history remembers you as a warrior, diplomat, artist and religious man.",
     "startIntroPart2": "Mighty King, your people need you once more, for only you are capable to lead them to even greater glory and fame, bringing back the glory of Angkor! Will you smite your insolent enemies and at the same time enrich the already magnificent temples in your empire? Can you build a civilization that will stand the test of time?",
     "declaringWar": "I usually seek council to my sages, but this time it is arms that I must express myself.",
@@ -332,6 +344,7 @@
     "adjective": ["Kongo"],
     "startBias": ["Avoid [Coast]","Forest"],
     "preferredVictoryType": "Cultural",
+
     "startIntroPart1": "Hail to you, brave Nzinga Mbande, Queen of the Ndongo and Matamba, whose beauty is matched only by your cunning. Your Kingdom is part of the great Kingdom of Kongo, situated at the mouth of the mighty Congo River in west-central Africa. You defied tradition by claiming two thrones and are remembered for standing bravely against the onslaught of European imperialism. When the Portuguese invaded your lands, you escaped death and shrewdly manipulated the Dutch into sending you aid. Together you turned back the army of the Portuguese at the Battle of Kombi. Yet, ever faced with threats both inside and out, the never-ending war took its tool, and in the end not even your bravery could stop the march of foreign crowns.",
     "startIntroPart2": "Mighty Queen of Kongo, your people has been chained and sold into slavery. Yet, your old alliances stand firm and await your call. It is time to return, to instill your strenght and spirit and lead your people to battle once more. Can you restore your war-torn land? Can you build a civilization that will stand the test of time?",
     "declaringWar": "Me and my warriors come to set your lands and your flags on fire!",
@@ -361,6 +374,7 @@
     "adjective": ["Manchurian"],
     "startBias": ["Avoid [Coast]"],
     "preferredVictoryType": "Domination",
+
     "startIntroPart1": "The Eight Banners bow down before you, oh great Nurhaci, Brilliant Khan Who Benefits All Nations, unifier of the Manchu peoples! Under your rule, a collection of scattered Jurchen tribes were unified into a great empire! Your reign was a period of great victory and progress for the Manchu people, consisting of constantly successful campaigns against the Ming, the Koreans, the Mongols and other Jurchen tribes. Truly, no empire in East Asia could withstand the might of the Manchu! Your reign is notable for more than sheer conquest, however, with great and important leaps in Manchu culture, such as the funding of the Eight Banners and the creation of a Manchu Alphabet. And your successors would build off your great achievements, conquering the entirety of China and founding one of the greatest dynasties of all time!",
     "startIntroPart2": "Oh, bold and noble Khan and Chieftain, the empire your actions shaped has fallen, and the Manchu have been reduced to a mere minority group in another nation’s empire. But your people call your name unto the heavens, desperate for your strong and wise leadership to lead them to glory once more! Will you ride with your Bannermen to the field of battle once more? Will you build a civilization to stand the test of time?",
     "declaringWar": "Prepare for war!",
@@ -394,6 +408,7 @@
         "leaderName": "Harald Hardrada",
         "adjective": ["Norwegian"],
         "startBias": ["Coast", "Tundra"],
+
         "startIntroPart1": "All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore. May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.",
         "startIntroPart2": "(Lets do it later)",
         "declaringWar": "Now comes a storm you cannot escape. You can only hope for a quick death! To victory! To Odin's halls!",
@@ -424,6 +439,8 @@
         "leaderName": "Hiram",
         "adjective": ["Phoenician"],
         "startBias": ["Coast"],
+
+
         "startIntroPart1": "Hiram I of Tyre! Truly, the gods have blessed Phoenicia with your wise leadership. Phoenicia was a prosperous land; situated on the coasts of the Fertile Crescent. Here your people founded a great civilization; one whose influence is striking. The Phoenicians invented the Bireme and profited and thrived on the trade of glass, cedars, and Tyrian Dye. They expanded their dominions, founding great cities such as Carthage on distant shores. They developed the Phoenician Alphabet, a writing system on which almost all modern scripts are based. Through these achievements Phoenicia has left a legacy yet unmatched by all the civilizations that followed.",
         "startIntroPart2": "King Hiram, the dawn of a new age approaches. Can your guidance return Phoenicia to prosperity? Will you share to the world the wealth and wisdom of Phoenicia? Will you build a civilization that will stand the test of time?",
         "declaringWar": "Prepare for war!",
@@ -458,6 +475,7 @@
         "startBias": ["Avoid [Coast]","Plains"],
         "preferredVictoryType": "Domination",
         "personality": "Casimir III",
+
         "startIntroPart1": "All hail noble King Casimir the Great, protector and sovereign of the Kingdom of Poland. You ascended to the throne during a time of great turmoil, with the nation's economy in shambles and its people demoralized by the wars of your predecessor. And yet, your reign marked the beginning of a new era, with affluence and security afforded only by way of your careful governance. Among your most notable achievements, the code of laws you established gave legal authority to many of the accepted customs of the time, strengthening the nation.",
         "startIntroPart2": "Honored king Casimir, the people have long admired the steady hand of governance you wield. Can you return your kingdom and its subjects to a golden age of prosperity? Will you conquer all those who oppose you, or strive for peaceful relations? Can you build a civilization that will stand the test of time?",
         "declaringWar": "I have decided to end you!",
@@ -488,6 +506,7 @@
         "startBias": ["Coast"],
         "preferredVictoryType": "Diplomatic",
         "personality": "Maria I",
+
         "startIntroPart1": "Blessings be upon you, most gracious Queen Maria, protector and sovereign of the Portuguese people. As the first ever Queen regnant of Portugal, it was your wise stewardship that protected the royal court from the incursions of Napoleon, establishing a safe haven in Brazil to preserve the integrity of Portuguese rule. Despite struggling with illness throughout your reign, your effort to ensure Portugal's close cooperation with Brazil are credited with helping that state gain its eventual independence - and for this you will always be admired and respected by the people of both nations.",
         "startIntroPart2": "Oh noble and pious queen, will you once again guide the kingdom of Portugal in the spirit of cooperation and prosperity? Will you establish a new legacy, one that will surpass all those who come before you? Can you build a civilization that will stand the test of time?",
         "declaringWar": "I'm afraid I cannot allow your kingdom to exist for much longer! I hope you won't mind...",
@@ -518,6 +537,8 @@
         "leaderName": "Robert the Bruce",
         "adjective": ["Scottish"],
         "startBias": ["Avoid [Coast]","Hill"],
+
+
         "startIntroPart1": "King Robert I, legendary monarch and enlightened ruler of Scotland, your realm awaits your command. A bastion of freedom, your nation resisted outside rule for nearly a millennium; bravely fighting off invasion after invasion by even the greatest of empires. Through your cunning and ambition, you succeeded in claiming the throne of Scotland from the very foreigners so despised in your land, who ascended through a series of events only God could foresee. With the throne thus claimed and popular support on your side, you defeated the army of Edward I, the English monarch whom you had previously driven from your lands, and one of the greatest threats your nation had ever faced. It was your actions which established a tenuous peace between your warring Kingdoms, fostering a common history which culminated in the union of the two kingdoms under a Scottish monarch in the year 1707. Yet your legacy is one of ensuring the protection of the culture and freedom of the Scottish people, for which you shall forever be remembered.",
         "startIntroPart2": "Robert the Bruce, general and king, Scotland once more has enemies encroaching on her land. The Scottish people are in need of a great general once more, to send homeward those who would threaten the sovereignty of their Kingdom. Will you fend off all foes that may threaten your nation? Will you ensure that Scotland is the land of the brave and free? Can you build a civilization that will stand the test of time?",
         "declaringWar": "Prepare for war!",
@@ -545,11 +566,45 @@
         ]
     },
     {
+        "name": "Shoshone",
+        "leaderName": "Pocatello",
+        "adjective": ["Shoshone"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Diplomatic",
+        "personality": "Pocatello",
+
+        "startIntroPart1": "Blessings be upon you, wise and fearsome Chief Pocatello, revered leader of the Shoshone people. As the young chieftain of the Shoshone, you rose to face a wave of encroaching American settlements across the western United States. Forced to defend the Shoshone ancestral lands from a seemingly endless stream of new emigrants, your war band struck fear into those who would claim the sacred lands of your people. After years of strife, you skillfully avoided a direct conflict with the armies of the U.S. government, and negotiated a series of treaties in the hopes of establishing a lasting peace for the Shoshone.",
+        "startIntroPart2": "Most esteemed Pocatello, your people once again look to you for guidance. Will you conquer your enemies, driving them far from your lands? Or will you seek out peaceful diplomacy and trade? Will you build a civilization that stands the test of time?",
+        "declaringWar": "Shoshone!, We will kill the white man!",
+        "attacked": "I must make the foreigner go away!",
+        "defeated": "This will not be the end of my people, I assure you.",
+        "introduction": "I am Chief Pocatello. You have arrived in the thick of Shoshone land.",
+        "neutralHello": "Our time has arrived!",
+        "hateHello": "?",
+        "tradeRequest": "Would you listen to my proposal?",
+        "outerColor": [65,54,42],
+        "innerColor": [78,244,234],
+        "uniqueName": "Great Expanse",
+        "uniques": ["[+15]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+        "Gain [20] [Culture] <upon founding a city> <in this city>",
+        "[-50]% Culture cost of natural border growth [in all cities]"],
+        "cities": [
+            "Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
+            "Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
+            "Pengwideka","Winnemucca","Skull Valley","Big Pine","Duck Valley"
+        ], 
+        "spyNames": [
+            "Cameahwait","Ondongarte","Queenah","Pugweenee","Sacajawea","Sagwitch","Sanpitch","Tuziyammo","Mugwayan"
+        ]
+    },
+    {
         "name": "Sumeria",
         "leaderName": "Gilgamesh",
         "adjective": ["Sumer"],
         "startBias": ["Avoid [Coast]"],
         "preferredVictoryType": "Scientific",
+
+
         "startIntroPart1": "The neverending glory be upon you. King Gilgamesh, most legendary and mystical ruler of Sumeria! Oh mighty king, whose hands built the city-walls of Uruk and eyes saw the sage Utnapishtim! You are the leader of the Sumer, the first and the only civilization that was truely original and innovative. Sumer's history stretches back into time when the Gods were walking alongside the mere mortals. Sumer, the cradle of civilization, made a great progress in our history, gave the world most beatiful things - literature, architecture and music - and developed professional army, immortalizing the very first battle in the stele. Sumer's contributions to the civlization of man are uncountable.",
         "startIntroPart2": "Divine King, who, with strength and wisdom, built the glory of the ancient Sumer and became the very first hero of the history - people seek for your guidance! The wealth of Euphrates, Tigris and the whole Fertile Crescent cannot be wasted in the hands of barbarians. Can you once more bring glory and light to the humankind? Can you build a civilization to stand the test of time?",
         "declaringWar": "Prepare for war!",
@@ -579,6 +634,8 @@
         "leaderName": "Le Loi",
         "adjective": ["Vietnamese"],
         "startBias": ["Avoid [Coast]","Marsh","Jungle"],
+
+
         "startIntroPart1": "Hail Le Loi, great hero of the Vietnamese people and founder of the Le Dynasty! You led the people of the Vietnamese countryside in an uprising that would throw off the violent oppression foisted upon them by the Ming Empire. After many battles, over 10 years, you restored the sovereignty of Vietnam. Though you reigned as King for only five years, during your rule you greatly improved the lives of your people with improvements to infrastructure and rewards to those who fought for Vietnamese independence. In the end, it was illness that ended your reign. Since then you have been revered as a legendary leader by the people of Vietnam.",
         "startIntroPart2": "The time has come for Vietnam to carve out a land for herself once again. Great leader, will you rally your people once again and lead them to greatness? With your magical sword, will you cut down those who would do you harm? Will you build a civilization that will stand the test of time?",
         "declaringWar": "Prepare for war!",
@@ -611,6 +668,7 @@
         "startBias": ["Avoid [Coast]","Avoid [Jungle]"],
         "preferredVictoryType": "Domination",
         "personality": "Shaka",
+
         "startIntroPart1": "Your people kneel before you, great warrior Shaka of the Zulu Kingdom. As you rose from a place of exile to become the true leader of the Zulus, you ushered in changes throughout the Zulu society, implementing new laws and cultural reforms that strengthened the position of your kingdom. However, it was your tenacity in the art of war that truly established your reputation, as your tactics and strategies on the battlefield forever changed the face of combat across the plains of southern Africa.",
         "startIntroPart2": "Most formidable king, your people once again long for the unity and strength your leadership afforded them. Can you return the Zulu kingdom to such great prominence? Will you build a civilization that stands the test of time?",
         "declaringWar": "None will slow our progress, not even you! Prepare for war!",
