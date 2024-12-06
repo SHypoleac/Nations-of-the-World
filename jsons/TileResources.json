@@ -1,0 +1,12 @@
+[
+{
+	"name": "Pralines",
+	"gold": 1,
+	"resourceType": "Luxury"
+},
+{
+	"name": "Cloves", 
+	"gold": 1,
+	"resourceType": "Luxury"
+}
+]
