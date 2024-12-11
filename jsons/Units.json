@@ -88,7 +88,7 @@
     "cost": 400,
     "requiredTech": "Plastics",
     "uniques": [
-      "[+20]% Strength <when fighting in [Foreign Land] tiles>",
+      "[+30]% Strength <when fighting in [Foreign Land] tiles>",
       "Can move after attacking"
     ],
     "upgradesTo": "Mechanized Infantry",
@@ -219,41 +219,24 @@
     "uniques": [
       "Can move after attacking",
       "No defensive terrain bonus",
-      "[-33]% Strength <vs cities> <when attacking>"
     ],
     "attackSound": "horse"
   },
-  {
-    "name": "Ski Infantry",
-    "unitType": "Gunpowder",
-    "replaces": "Great War Infantry",
+	{
+		"name": "Skeid",
+    "replaces": "Galleass",
     "uniqueTo": "Norway",
-    "movement": 2,
-    "strength": 50,
-    "cost": 330,
-    "requiredTech": "Replaceable Parts",
-    "obsoleteTech": "Plastics",
-    "upgradesTo": "Infantry",
-    "promotions": ["[Norwegian Ski Infantry] ability"],
-    "attackSound": "shot"
-},
-  {
-    "name": "Square Sail Ship",
-    "replaces": "Trireme",
-    "uniqueTo": "Phoenicia",
-    "unitType": "Melee Water",
-    "movement": 4,
-    "strength": 10,
-    "cost": 38,
-    "requiredTech": "Sailing",
-    "uniques": [
-      "Can move after attacking",
-      "[-33]% Strength <vs cities> <when attacking>"
-    ],
-    "upgradesTo": "Caravel",
-    "obsoleteTech": "Astronomy",
-    "attackSound": "nonmetalhit"
-  },
+		"unitType": "Ranged Water",
+		"movement": 3,
+		"strength": 16,
+		"rangedStrength": 17,
+		"cost": 100,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"uniques": ["[+33]% Strength <vs [Water] units>"],
+		"attackSound": "arrow"
+	},
   {
     "name": "Winged Hussar",
     "replaces": "Lancer",
@@ -316,6 +299,38 @@
     "attackSound": "shot"
   },
   {
+    "name": "Pathfinder",
+    "replaces": "Scout",
+    "uniqueTo": "Shoshone",
+    "unitType": "Scout",
+    "movement": 2,
+    "strength": 8,
+    "cost": 35,
+    "uniques": ["May upgrade to [Composite Bowman] through ruins-like effects",
+  "[+20]% [This Unit] upgrades for free including special upgrades <upon discovering a [Ancient ruins] tile>"],
+    "promotions": ["Ignore terrain cost"],
+    "attackSound": "nonmetalhit"
+},
+{
+  "name": "Comanche Rider",
+  "replaces": "Cavalry",
+  "uniqueTo": "Shoshone",
+  "unitType": "Mounted",
+  "movement": 5,
+  "strength": 34,
+  "cost": 198,
+  "requiredTech": "Military Science",
+  "obsoleteTech": "Combustion",
+  "requiredResource": "Horses",
+  "upgradesTo": "Landship",
+  "uniques": [
+      "Can move after attacking",
+      "No defensive terrain bonus",
+      "[-33]% Strength <vs cities> <when attacking>"
+  ],
+  "attackSound": "horse"
+},
+  {
     "name": "Phalanx",
     "replaces": "Spearman",
     "uniqueTo": "Sumeria",
@@ -342,7 +357,8 @@
     "cost": 350,
     "requiredTech": "Plastics",
     "uniques": [
-      "Can pass through impassable tiles"
+      "Invisible to non-adjacent units <in [Jungle] tiles>",
+      "Invisible to non-adjacent units <in [Forest] tiles>"
     ],
     "upgradesTo": "Mechanized Infantry",
     "obsoleteTech": "Mobile Tactics",

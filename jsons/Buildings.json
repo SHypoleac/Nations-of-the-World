@@ -50,36 +50,27 @@
     ]
   },
   {
-    "name": "Stade",
-    "replaces": "Theatre",
-    "uniqueTo": "Belgium",
-    "cost": 140,
-    "happiness": 3,
-    "gold": 2,
-    "culture": 1,
-    "hurryCostModifier": 10,
-    "requiredTech": "Printing Press"
-  },
+		"name": "Chocolatier",
+		"replaces": "Theatre",
+		"uniqueTo": "Belgium",
+		"happiness": 2,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"uniques": ["Provides [1] [Pralines]"],
+		"requiredTech": "Printing Press"
+	},
   {
-    "name": "Tim Hortons",
+		"name": "Maple Farm",
+    "replaces": "Windmill",
     "uniqueTo": "Canada",
-    "replaces": "Stock Exchange",
-    "cost": 300,
-    "gold": 3,
-    "happiness": 2,
-    "percentStatBonus": {
-      "gold": 25
-    },
-    "specialistSlots": {
-      "Merchant": 2
-    },
-    "hurryCostModifier": 15,
-    "requiredBuilding": "Bank",
-    "uniques": [
-      "[+1 Gold] from [River] tiles [in this city]"
-    ],
-    "requiredTech": "Electricity"
-  },
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"uniques": ["[+10]% Production when constructing [All] buildings [in this city]","[+1 Gold] from [Forest] tiles [in this city]","Must have an owned [Forest] within [2] tiles"],
+		"requiredTech": "Economics"
+	},
   {
     "name": "Orszaggyules",
     "uniqueTo": "Hungary",
@@ -93,17 +84,17 @@
     "cityStrength": 2,
     "requiredTech": "Mathematics",
     "uniques": [
-      "[+5]% Production when constructing [All] buildings [in this city]",
+      "[+10]% Production when constructing [All] buildings [in this city]",
       "Indicates the capital city",
       "Limited to [2] per Civilization"
     ]
   },
   {
-    "name": "Spices",
+    "name": "Cloves",
     "uniqueTo": "Indonesia",
     "cost": 0,
     "uniques": [
-      "Provides [2] [Spices]",
+      "Provides [2] [Cloves]",
       "Never destroyed when the city is captured",
       "Unsellable",
       "Must be next to [Coast]",
@@ -117,7 +108,7 @@
     "replaces": "Garden",
     "uniqueTo": "Indonesia",
     "cost": 120,
-    "culture": 2,
+    "faith": 2,
     "uniques": ["[+25]% Great Person generation [in this city]"],
     "hurryCostModifier": 25,
     "maintenance": 1,
@@ -155,7 +146,7 @@
     "uniques": [
         "[10]% Food is carried over after population increases [in this city]",
         "[+2 Food, +2 Faith] <after discovering [Drama and Poetry]>",
-        "[+20]% Great Person generation [in this city]"
+        "[+25]% Great Person generation [in this city]"
     ],
     "hurryCostModifier": 25,
     "maintenance": 1,
@@ -187,25 +178,9 @@
     "hurryCostModifier": 25,
     "requiredTech": "Philosophy",
     "uniques": [
-        "[+1 Production] from [Tundra] tiles [in this city]",
+        "[+1 Food] from [Tundra] tiles [in this city]",
         "[+1 Production] from [Snow] tiles [in this city]"
     ]
-  },
-  {
-    "name": "Trade Harbor",
-    "replaces": "Harbor",
-    "uniqueTo": "Phoenicia",
-    "cost": 120,
-    "maintenance": 2,
-    "hurryCostModifier": 25,
-    "gold": 2,
-    "uniques": [
-      "Connects trade routes over water",
-      "Must be next to [Coast]",
-      "[+1 Production] from [Water resource] tiles [in this city]",
-      "[+10]% Production when constructing [Water] units [in this city]"
-    ],
-    "requiredTech": "Compass"
   },
   {
     "name": "Ducal Stable",
@@ -278,7 +253,7 @@
     "uniques": [
       "New [Military] units start with [15] Experience [in this city]",
       "Destroyed when the city is captured",
-      "[+1 Food, +1 Culture, +1 Production] from [Marsh] tiles [in this city]",
+      "[+1 Production, +1 Culture] from [Marsh] tiles [in this city]",
       "[+1 Culture] from [Jungle] tiles [in this city]",
       "All newly-trained [Melee] units [in this city] receive the [Woodsman] promotion"
     ],
