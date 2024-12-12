@@ -187,7 +187,7 @@
     "innerColor": [245, 222, 153],
     "uniqueName": "Canadian Fur Trade",
     "uniques": [
-        "[+1 Culture] from every [Tundra]"
+        "[+1 Culture] from every [Tundra] <after discovering [Guilds]>"
     ],
     "cities": [
         "Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Quebec City","Winnipeg","Mississauga","Halifax",
@@ -293,7 +293,7 @@
     "innerColor": [65,143,35],
     "uniqueName": "August Destiny",
     "uniques": [
-        "[+2 Culture] [in all cities with a garrison]",
+        "[+1 Culture] [in all cities with a garrison]",
         "Comment [[+1 Happiness] from every National Wonder]",
         "[+1 Happiness] from every [National Epic] <hidden from users>",
         "[+1 Happiness] from every [National College] <hidden from users>",
@@ -367,7 +367,7 @@
     "outerColor": [255,227,151],
     "innerColor": [96,11,99],
     "uniqueName": "Heart of Africa",
-    "uniques": ["[+2 Culture] from every unimproved [Jungle]"],
+    "uniques": ["[+2 Culture] from [unimproved Jungle] tiles [in all cities]"],
     "cities": [
         "M'banza-Kongo","M'banza-Ngungu","M'banza-Nsundi","M'banza-Mbata","M'banza-Bakwanga","M'banza-Mpangu","M'banza-Wembo","M'banza-Lovata","M'banza-Mbumbi","M'banza-Mbamba",
         "M'banza-Mbwila","M'banza-Mpinda","M'banza-Mpemda","M'banza-Kwila","M'banza-Soyo","M'banza-Kwango","M'banza-Bakavu","M'banza-Sanga","M'banza-Katango","M'banza-Nkunga",
@@ -398,6 +398,7 @@
     "innerColor": [0,55,106],
     "uniqueName": "Eight Banners",
     "uniques": [
+        "Provides [3] [Horses]",
         "[+100]% Production when constructing [Stable] buildings [in all cities]",
         "[+1 Gold] from every [Stable]",
         "[-100]% maintenance costs <for [Mounted] units>"
@@ -433,7 +434,7 @@
         "uniqueName": "Nordic Bounty",
         "uniques": [
             "[+1 Production] from every [Tundra]",
-            "[+2 Food, +1 Production] from every [Snow]"
+            "[+2 Food] from every [Snow]"
         ],
         "cities": [
             "Oslo","Bergen","Trondheim","Stavanger","Tromso","Sarpsborg","Kristiansand","Fredrikstad","Tunsberg","Sandefjord",
@@ -529,7 +530,7 @@
         "innerColor": [201,214,217],
         "uniqueName": "Last of the Free",
         "uniques": [
-            "[+1 Culture] from unimproved [Hill]",
+            "[+1 Culture] from [unimproved Hill] tiles [in all cities]",
             "[+33]% Great Person generation [in capital]"
         ],
         "cities": [
@@ -628,7 +629,7 @@
         "uniqueName": "Tam Giao",
         "uniques": [
             "[+3 Food] from every [Marsh]",
-            "[+1 Faith] from unimproved [Jungle]"
+            "[+1 Faith] from [unimproved Jungle] tiles [in all cities]"
         ],
         "cities": [
             "Hà Noi","Thành Pho Ho Chí Minh","Hai Phòng","Thành Pho Hue","Can Tho","Dà Nang","Biên Hòa","Phan Rang","Quang Ngãi","Quang Ninh",

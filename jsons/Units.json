@@ -307,7 +307,8 @@
     "strength": 8,
     "cost": 35,
     "uniques": ["May upgrade to [Composite Bowman] through ruins-like effects",
-  "[+20]% [This Unit] upgrades for free including special upgrades <upon discovering a [Ancient ruins] tile>"],
+    "Gain [5] [Gold] <upon discovering a [Ancient ruins] tile>",
+    "Gain [2] [Culture] <upon discovering a [Ancient ruins] tile>"],
     "promotions": ["Ignore terrain cost"],
     "attackSound": "nonmetalhit"
 },

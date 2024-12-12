@@ -99,7 +99,6 @@
       "Unsellable",
       "Must be next to [Coast]",
       "Limited to [1] per Civilization",
-      "Will not be displayed in Civilopedia"
     ],
     "requiredTech": "Optics"
   },
@@ -121,7 +120,7 @@
     "cost": 180,
     "happiness": 3,
     "food": 2,
-    "production": 2,
+    "production": 1,
     "hurryCostModifier": 10,
     "requiredBuilding": "Colosseum",
     "requiredTech": "Printing Press"
@@ -135,7 +134,7 @@
     "hurryCostModifier": 25,
     "requiredTech": "Construction",
     "uniques": [
-      "[+3 Production, +2 Gold] <after discovering [Industrialization]>",
+      "[+2 Production, +1 Gold] <after discovering [Industrialization]>",
       "[-1] population [in this city]"
     ]
   },
@@ -172,13 +171,13 @@
     "name": "Stave Church",
     "replaces": "Temple",
     "uniqueTo": "Norway",
+    "maintenance":2,
     "cost": 75,
     "faith": 2,
     "requiredBuilding": "Shrine",
     "hurryCostModifier": 25,
     "requiredTech": "Philosophy",
     "uniques": [
-        "[+1 Food] from [Tundra] tiles [in this city]",
         "[+1 Production] from [Snow] tiles [in this city]"
     ]
   },
