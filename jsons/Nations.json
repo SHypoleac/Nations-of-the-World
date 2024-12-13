@@ -104,7 +104,7 @@
     "leaderName": "Leopold II",
     "adjective": ["Belgian"],
     "startBias": ["Avoid [Coast]", "Grassland"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Diplomatic",
     "personality": "Leopold II",
 
     "startIntroPart1": "Fledgling Belgium looks to you, Leopold II, King of the Belgians. In your forty-four years of rule, you strove to bring Belgium to the forefront of European progress - to make her a model for industry and her wealth the envy of lesser nations. With the help of the explorer Henry Morton Stanley, you privately laid claim to the Congo, whose immense natural wealth would be put to the advancement of your kingdom. Though your reputation abroad would ultimately succumb to controversy, your public works would nonetheless put the Belgian people on the path to progress. ",
@@ -187,7 +187,7 @@
     "innerColor": [245, 222, 153],
     "uniqueName": "Canadian Fur Trade",
     "uniques": [
-        "[+1 Culture] from every [Tundra] <after discovering [Guilds]>"
+        "[+1 Gold] from every [Tundra] <after discovering [Guilds]>"
     ],
     "cities": [
         "Ottawa","Toronto","Montreal","Vancouver","Calgary","Edmonton","Quebec City","Winnipeg","Mississauga","Halifax",
@@ -204,7 +204,7 @@
     "leaderName": "Matthias Corvinus",
     "adjective": ["Hungarian"],
     "startBias": ["Avoid [Coast]", "Hill", "Plains"],
-    "preferredVictoryType": "Domination",
+    "preferredVictoryType": "Diplomatic",
     "personality": "Matthias Corvinus",
     
     "startIntroPart1": "Maganimous King Matthias Corvinus of Hungary, your shining legacy is everlasting. When you came to the Magyar throne, your nation was going through a tumultuous time, threatened as it was from all sides; seeing this with perfect clarity, you established a permanent professional army, and thus the fearsome mercenary Black Army was born: unusual in its size and comparison, it famously incorporated the use of muskets. But perhaps the pinnacle of your reign is the fact that you made Hungary the first country outside Italy to adopt the principles of the Renaissance: learned men from all countries, not just Italy itself, travelled to Hungary to talk about arts, and your legendary library was rivaled only by that of Venice.",
@@ -262,7 +262,9 @@
     "outerColor": [101,211,220],
     "innerColor": [167,52,31],
     "uniqueName": "Spice Islanders",
-    "uniqueText": "After discovering Optics gains access to buildings that provides 2 copies of unique Luxury Resources",
+    "uniques": ["[+25]% Great Person generation [in capital]"],
+    "uniqueText": "After discovering Optics gains access to buildings that provides 2 copies of unique Luxury Resources \n
+    [+25]% Great Person generation [in capital]",
     "cities": [
         "Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
         "Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
@@ -277,7 +279,7 @@
     "leaderName": "Michael Collins",
     "adjective": ["Irish"],
     "startBias": ["Avoid [Coast]", "Hill"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Diplomatic",
     "personality": "Michael Collins",
 
     "startIntroPart1": "Few can boast your patriotism and commitment to the cause of a Free Ireland, Commander Collins. Though you came from the humblest of beginnings, you truly embodied the pride of Irishness. It was not long before you joined the struggle for Home Rule, and you began to build a reputation for yourself – one of dedication, devotion, and pride for Ireland. After the Easter Rising turned bloody, you managed to turn a beaten movement into a potent physical force, one that would successfully found an Irish nation, fight a war for liberation, and win independence. Some did not share your view, however, and soon this incomplete nation descended once more into war. And though you paid the ultimate cost in the subsequent civil war, you gave your life for a free state that was established soon after.",
@@ -294,17 +296,7 @@
     "uniqueName": "August Destiny",
     "uniques": [
         "[+1 Culture] [in all cities with a garrison]",
-        "Comment [[+1 Happiness] from every National Wonder]",
-        "[+1 Happiness] from every [National Epic] <hidden from users>",
-        "[+1 Happiness] from every [National College] <hidden from users>",
-        "[+1 Happiness] from every [Circus Maximus] <hidden from users>",
-        "[+1 Happiness] from every [Heroic Epic] <hidden from users>",
-        "[+1 Happiness] from every [National Treasury] <hidden from users>",
-        "[+1 Happiness] from every [Grand Temple] <hidden from users>",
-        "[+1 Happiness] from every [Ironworks] <hidden from users>",
-        "[+1 Happiness] from every [Oxford University] <hidden from users>",
-        "[+1 Happiness] from every [Hermitage] <hidden from users>",
-        "[+1 Happiness] from every [National Intelligence Agency] <hidden from users>"
+        "Comment [[+1 Happiness] from every National Wonders]"
     ],
     "cities": [
         "Dublin","Cork","Galway","Wexford","Kilkenny","Tralee","Limerick","Castlebar","Lifford","Clonmel",
@@ -367,7 +359,7 @@
     "outerColor": [255,227,151],
     "innerColor": [96,11,99],
     "uniqueName": "Heart of Africa",
-    "uniques": ["[+2 Culture] from [unimproved Jungle] tiles [in all cities]"],
+    "uniques": ["[+1 Culture] from [Jungle] tiles without [Improvement] [in all cities]"],
     "cities": [
         "M'banza-Kongo","M'banza-Ngungu","M'banza-Nsundi","M'banza-Mbata","M'banza-Bakwanga","M'banza-Mpangu","M'banza-Wembo","M'banza-Lovata","M'banza-Mbumbi","M'banza-Mbamba",
         "M'banza-Mbwila","M'banza-Mpinda","M'banza-Mpemda","M'banza-Kwila","M'banza-Soyo","M'banza-Kwango","M'banza-Bakavu","M'banza-Sanga","M'banza-Katango","M'banza-Nkunga",
@@ -398,9 +390,7 @@
     "innerColor": [0,55,106],
     "uniqueName": "Eight Banners",
     "uniques": [
-        "Provides [3] [Horses]",
         "[+100]% Production when constructing [Stable] buildings [in all cities]",
-        "[+1 Gold] from every [Stable]",
         "[-100]% maintenance costs <for [Mounted] units>"
     ],
     "cities": [
@@ -514,7 +504,7 @@
         "leaderName": "Robert the Bruce",
         "adjective": ["Scottish"],
         "startBias": ["Avoid [Coast]","Hill"],
-        "preferredVictoryType": "Diplomatic",
+        "preferredVictoryType": "Cultural",
         "personality": "Robert the Bruce",
 
         "startIntroPart1": "King Robert I, legendary monarch and enlightened ruler of Scotland, your realm awaits your command. A bastion of freedom, your nation resisted outside rule for nearly a millennium; bravely fighting off invasion after invasion by even the greatest of empires. Through your cunning and ambition, you succeeded in claiming the throne of Scotland from the very foreigners so despised in your land, who ascended through a series of events only God could foresee. With the throne thus claimed and popular support on your side, you defeated the army of Edward I, the English monarch whom you had previously driven from your lands, and one of the greatest threats your nation had ever faced. It was your actions which established a tenuous peace between your warring Kingdoms, fostering a common history which culminated in the union of the two kingdoms under a Scottish monarch in the year 1707. Yet your legacy is one of ensuring the protection of the culture and freedom of the Scottish people, for which you shall forever be remembered.",
@@ -530,8 +520,7 @@
         "innerColor": [201,214,217],
         "uniqueName": "Last of the Free",
         "uniques": [
-            "[+1 Culture] from [unimproved Hill] tiles [in all cities]",
-            "[+33]% Great Person generation [in capital]"
+            "[+1 Culture] from [Hill] tiles without [Improvement] [in all cities] <after discovering [Drama and Poetry]>"
         ],
         "cities": [
             "Edinburgh","Glasgow","Stirling","Aberdeen","Dundee","Inverness","Perth","Dunfermline","Kilmarnock","Dumfries",
@@ -629,7 +618,7 @@
         "uniqueName": "Tam Giao",
         "uniques": [
             "[+3 Food] from every [Marsh]",
-            "[+1 Faith] from [unimproved Jungle] tiles [in all cities]"
+            "[+1 Faith] from [Jungle] tiles without [Improvement] [in all cities]"
         ],
         "cities": [
             "Hà Noi","Thành Pho Ho Chí Minh","Hai Phòng","Thành Pho Hue","Can Tho","Dà Nang","Biên Hòa","Phan Rang","Quang Ngãi","Quang Ninh",
