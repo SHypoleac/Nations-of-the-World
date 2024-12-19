@@ -68,12 +68,12 @@
     "unitType": "Gunpowder",
     "movement": 2,
     "strength": 55,
-    "cost": 300,
+    "cost": 320,
     "requiredTech": "Replaceable Parts",
     "promotions": [
-      "Drill I",
-      "Charge"
+      "Ignore terrain cost"
     ],
+    "uniques": ["[+20]% Strength <in [Friendly Land] tiles>"],
     "upgradesTo": "Infantry",
     "obsoleteTech": "Plastics",
     "attackSound": "shot"
@@ -85,7 +85,7 @@
     "uniqueTo": "Brazil",
     "movement": 2,
     "strength": 80,
-    "cost": 400,
+    "cost": 375,
     "requiredTech": "Plastics",
     "uniques": [
       "[+30]% Strength <when fighting in [Foreign Land] tiles>",
@@ -121,12 +121,12 @@
     "replaces": "Musketman",
     "uniqueTo": "Hungary",
     "movement": 2,
-    "strength": 24,
-    "cost": 135,
+    "strength": 27,
+    "cost": 150,
     "requiredTech": "Gunpowder",
     "upgradesTo": "Rifleman",
     "promotions": [
-      "Accuracy I"
+      "Medic"
     ],
     "obsoleteTech": "Rifling",
     "attackSound": "shot"
@@ -142,7 +142,6 @@
     "requiredTech": "Iron Working",
     "upgradesTo": "Longswordsman",
     "obsoleteTech": "Steel",
-    "requiredResource": "Iron",
     "hurryCostModifier": 20,
     "promotions": [
       "Mystic Blade"
@@ -156,7 +155,7 @@
     "unitType": "Gunpowder",
     "movement": 2,
     "strength": 40,
-    "cost": 165,
+    "cost": 180,
     "requiredTech": "Rifling",
     "obsoleteTech": "Replaceable Parts",
     "upgradesTo": "Great War Infantry",
@@ -168,18 +167,17 @@
     "replaces": "Trebuchet",
     "unitType": "Siege",
     "movement": 3,
-    "strength": 20,
-    "rangedStrength": 18,
-    "cost": 135,
+    "strength": 18,
+    "rangedStrength": 16,
+    "cost": 120,
     "requiredTech": "Machinery",
     "obsoleteTech": "Chemistry",
     "upgradesTo": "Cannon",
     "promotions": ["Indirect Fire","Feared Elephant"],
     "uniques": [
         "[+100]% Strength <vs cities> <when attacking>",
-        "No defensive terrain bonus",
-        "Must set up to ranged attack",
-        "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
+        "[+20]% Strength <vs [Mounted] units>",
+        "No defensive terrain bonus"
     ],
     "attackSound": "throw"
 },
@@ -281,23 +279,23 @@
     "attackSound": "cannon"
   },
   {
-    "name": "Gallowglass",
+		"name": "Gallowglass",
     "uniqueTo": "Scotland",
-    "replaces": "Rifleman",
-    "unitType": "Gunpowder",
-    "movement": 2,
-    "strength": 32,
-    "cost": 180,
-    "requiredResource": "Iron",
-    "requiredTech": "Metallurgy",
+		"unitType": "Sword",
+    "replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 24,
+		"cost": 120,
     "promotions": [
-      "Volley",
-      "Altitude Training"
+      "Ignore terrain cost"
     ],
-    "obsoleteTech": "Replaceable Parts",
-    "upgradesTo": "Great War Infantry",
-    "attackSound": "shot"
-  },
+    "uniques":["[+30]% Strength <vs [Melee] units>"],
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
   {
     "name": "Pathfinder",
     "replaces": "Scout",
@@ -338,13 +336,13 @@
     "unitType": "Sword",
     "movement": 2,
     "strength": 11,
-    "cost": 40,
+    "cost": 56,
     "requiredTech": "Mining",
     "obsoleteTech": "Civil Service",
     "upgradesTo": "Pikeman",
     "uniques": [
       "[+50]% Strength <vs [Mounted] units>",
-      "[+50]% to Flank Attack bonuses"
+      "[+50]% Strength <when defending>"
     ],
     "attackSound": "metalhit"
   },
@@ -355,7 +353,7 @@
     "unitType": "Gunpowder",
     "movement": 3,
     "strength": 70,
-    "cost": 350,
+    "cost": 375,
     "requiredTech": "Plastics",
     "uniques": [
       "Invisible to non-adjacent units <in [Jungle] tiles>",

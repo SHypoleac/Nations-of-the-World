@@ -87,8 +87,8 @@
     "uniqueName": "Dreamtime",
     "uniques": [
         "[+1 Faith] from [Desert] tiles without [Flood plains] [in all cities]",
-        "[+5 Faith] from every [Natural Wonder]",
-        "Gain [10] [Faith] <upon discovering a Natural Wonder>"
+        "[+5 Faith] from [Natural Wonder] tiles [in all cities]",
+        "Gain [20] [Faith] <upon discovering a Natural Wonder>"
     ],
     "cities": [
         "Canberra","Sydney","Melbourne","Brisbane","Gold Coast","Adelaide","Perth","Newcastle","Sunshine Coast","Wollongong",
@@ -263,8 +263,7 @@
     "innerColor": [167,52,31],
     "uniqueName": "Spice Islanders",
     "uniques": ["[+25]% Great Person generation [in capital]"],
-    "uniqueText": "After discovering Optics gains access to buildings that provides 2 copies of unique Luxury Resources \n
-    [+25]% Great Person generation [in capital]",
+    "uniqueText": "After discovering Optics gains access to buildings that provides 2 copies of unique Luxury Resources \n[+25]% Great Person generation [in capital]",
     "cities": [
         "Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
         "Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",
@@ -294,9 +293,7 @@
     "outerColor": [238,231,221],
     "innerColor": [65,143,35],
     "uniqueName": "August Destiny",
-    "uniques": [
-        "[+1 Culture] [in all cities with a garrison]",
-        "Comment [[+1 Happiness] from every National Wonders]"
+    "uniques": ["[+1 Happiness] from every [National Wonder]"
     ],
     "cities": [
         "Dublin","Cork","Galway","Wexford","Kilkenny","Tralee","Limerick","Castlebar","Lifford","Clonmel",
@@ -329,7 +326,7 @@
     "innerColor": [0, 0, 178],
     "uniqueName": "Grand Baray of Angkor",
     "uniques": ["Gain a free [Baray] [in capital]",
-                "[+2 Science] per [3] population [in capital] <after discovering [Drama and Poetry]>"],
+                "[+3 Science] per [3] population [in capital] <after discovering [Drama and Poetry]>"],
     "cities": [
         "Yasodharapura","Hariharalaya","Mahendraparvata","Indrapura","Vimayapura","Rajavihara","Isvarapura","Lingapura","Nagara Jayasri","Vyadhapura",
         "Dviradapura","Amarendrapura","Lavodayapura","Shrestapura","Aninditapura","Isanapura","Banteay Kdei","Chaturmukha","Phetchaburi","Preah Vihear",
@@ -423,8 +420,8 @@
         "innerColor": [238,180,0],
         "uniqueName": "Nordic Bounty",
         "uniques": [
-            "[+1 Production] from every [Tundra]",
-            "[+2 Food] from every [Snow]"
+            "[+1 Production] from every [Tundra] <after discovering [Optics]>",
+            "[+1 Food] from every [Snow]"
         ],
         "cities": [
             "Oslo","Bergen","Trondheim","Stavanger","Tromso","Sarpsborg","Kristiansand","Fredrikstad","Tunsberg","Sandefjord",
@@ -455,7 +452,9 @@
         "outerColor": [241,3,0],
         "innerColor": [80,11,14],
         "uniqueName": "Solidarity",
-        "uniques": ["[-10]% Culture cost of adopting new Policies"],
+        "uniques": ["[-10]% Culture cost of adopting new Policies",
+        "Provides [2] [Horses]"
+    ],
         "cities": [
             "Warsaw","Krakow","Lodz","Wroclaw","Poznan","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
             "Katowice","Bialystok","Gdynia","Schweidnitz","Czestochowa","Radom","Torun","Kielce","Gliwice","Klaipeda",
@@ -520,7 +519,7 @@
         "innerColor": [201,214,217],
         "uniqueName": "Last of the Free",
         "uniques": [
-            "[+1 Culture] from [Hill] tiles without [Improvement] [in all cities] <after discovering [Drama and Poetry]>"
+            "[+1 Culture] from [Hill] tiles without [Improvement] [in all cities] <after discovering [Acoustics]>"
         ],
         "cities": [
             "Edinburgh","Glasgow","Stirling","Aberdeen","Dundee","Inverness","Perth","Dunfermline","Kilmarnock","Dumfries",
@@ -553,7 +552,7 @@
         "innerColor": [78,244,234],
         "uniqueName": "Great Expanse",
         "uniques": ["[+15]% Strength <for [Military] units> <in [Friendly Land] tiles>",
-        "[-70]% Culture cost of natural border growth [in all cities]"]
+        "Gain control over [All] tiles in a [2]-tile radius <upon founding a city> <in this city>"]
         ,
         "cities": [
             "Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",

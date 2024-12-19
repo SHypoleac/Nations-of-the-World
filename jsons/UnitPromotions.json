@@ -11,7 +11,7 @@
     {
         "name": "Feared Elephant",
         "uniques": [
-            "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
+            "[-20]% Strength for enemy [Military] units in adjacent [All] tiles"
         ]
     },
     {
