@@ -1,0 +1,15 @@
+[
+{
+        "name": "Brazilwood Camp",
+        "uniqueTo": "Brazil",
+        "terrainsCanBeBuiltOn": ["Jungle","Forest"],
+        "production": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Bronze Working",
+        "uniques": [
+            "[+2 Gold] <after discovering [Machinery]>",
+            "[+2 Culture] <after discovering [Acoustics]>",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+    }
+]
