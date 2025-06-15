@@ -107,7 +107,7 @@
     "preferredVictoryType": "Diplomatic",
     "personality": "Leopold II",
 
-    "startIntroPart1": "Fledgling Belgium looks to you, Leopold II, King of the Belgians. In your forty-four years of rule, you strove to bring Belgium to the forefront of European progress - to make her a model for industry and her wealth the envy of lesser nations. With the help of the explorer Henry Morton Stanley, you privately laid claim to the Congo, whose immense natural wealth would be put to the advancement of your kingdom. Though your reputation abroad would ultimately succumb to controversy, your public works would nonetheless put the Belgian people on the path to progress. ",
+    "startIntroPart1": "Fledgling Belgium looks to you, Leopold II, King of the Belgians. In your forty-four years of rule, you strove to bring Belgium to the forefront of European progress - to make her a model for industry and her wealth the envy of lesser nations. With the help of the explorer Henry Morton Stanley, you privately laid claim to the Congo, whose immense natural wealth would be put to the advancement of your kingdom. Though your reputation abroad would ultimately succumb to controversy, your public works would nonetheless put the Belgian people on the path to progress.",
     "startIntroPart2": "King Leopold, once more Belgium must make haste if it is to maintain its stride with the march of progress. Can you take up the charge and bring wealth and ingenuity to your kingdom? Can you leave your people with great public works and develop Belgium into a modern nation? Can you build a civilization that can stand the test of time?",
     "declaringWar": "Prepare for war!",
     "attacked": "You shall regret this!",
@@ -263,7 +263,7 @@
     "innerColor": [167,52,31],
     "uniqueName": "Spice Islanders",
     "uniques": ["[+25]% Great Person generation [in capital]"],
-    "uniqueText": "After discovering Optics gains access to buildings that provides 2 copies of unique Luxury Resources \n[+25]% Great Person generation [in capital]",
+    "uniqueText": "After discovering Optics gains access to the building that provides 2 copies of unique Luxury Resources \n[+25]% Great Person generation [in capital]",
     "cities": [
         "Jakarta","Surabaya","Medan","Makassar","Batam","Denpasar","Samarinda","Mataram","Ambon","Bandung",
         "Kupang","Depok","Palembang","Trowulan","Semarang","Jayapura","Tangerang","Bogor","Pekanbaru","Bandar Lampung",

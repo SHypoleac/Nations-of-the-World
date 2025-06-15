@@ -12,9 +12,9 @@
     "hurryCostModifier": 25,
     "uniques": [
       "[+15]% Production when constructing [Mounted] units [in this city]",
-      "[+1 Production, +2 Food] from [Cattle] tiles [in this city]",
-      "[+1 Production, +2 Food] from [Horses] tiles [in this city]",
-      "[+1 Production, +2 Food] from [Sheep] tiles [in this city]"
+      "[+1 Production, +1 Food] from [Cattle] tiles [in this city]",
+      "[+1 Production, +1 Food] from [Horses] tiles [in this city]",
+      "[+1 Production, +1 Food] from [Sheep] tiles [in this city]"
     ],
     "requiredTech": "Horseback Riding"
   },
@@ -230,7 +230,7 @@
       "[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
       "[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
       "[+1 Production, +1 Gold] from [Sheep] tiles [in this city]",
-      "New [Mounted] units start with [15] Experience [in this city]"
+      "New [Mounted] units start with [15] XP [in this city]"
     ],
     "requiredTech": "Horseback Riding"
   },
