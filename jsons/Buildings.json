@@ -45,7 +45,8 @@
     },
     "uniques": [
       "[-25]% enemy spy effectiveness [in this city]"
-    ]
+    ],
+    "requiredTech": "Banking"
   },
   {
     "name": "Chocolatier",
