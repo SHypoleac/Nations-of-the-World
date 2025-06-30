@@ -251,7 +251,7 @@
     "requiredTech": "Compass"
   },
   {
-    "name": "Ceilidh Hall",
+    "name": "Scottish Ceilidh Hall",
     "replaces": "Opera House",
     "uniqueTo": "Scotland",
     "culture": 4,
